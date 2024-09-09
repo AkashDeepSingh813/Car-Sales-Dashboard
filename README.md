@@ -17,6 +17,6 @@ Sales Trends: The weekly sales trends gave us a clear picture of seasonality and
 Product Preferences: Visualizations showed that certain body styles and colors contributed significantly to sales.
 Regional Performance: The map chart helped identify high-performing regions, allowing for better resource allocation.
 
-📊 Conclusion: The Car Sales Dashboard has provided us with a valuable tool to monitor and improve our sales strategies. By leveraging Power BI, we now have the ability to track critical KPIs in real time, optimize performance, and make informed decisions that drive business growth. This dashboard will be key to identifying new opportunities and enhancing customer satisfaction moving forward.
+📊 Conclusion: The Dashboard offers real-time insights into critical metrics such as YTD sales, MTD sales, and YOY growth. It helps identify trends in sales by body style, color, region, and dealer performance, enabling data-driven business strategies and decision-making.
 
 
